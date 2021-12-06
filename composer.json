@@ -40,7 +40,8 @@
     "require-dev": {
         "horde/test": "^3 || dev-FRAMEWORK_6_0",
         "horde/cli": "^3 || dev-FRAMEWORK_6_0",
-        "horde/scribe": "^3 || dev-FRAMEWORK_6_0"
+        "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
+        "phpunit/phpunit": "10.0.x-dev"
     },
     "suggest": {
         "horde/cli": "^3 || dev-FRAMEWORK_6_0",
